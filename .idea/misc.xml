@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.3 virtualenv at C:\Users\Jure\DjangoEnv" project-jdk-type="Python SDK" />
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.2 (C:/Users/i7-2600K/virtualEnv/env1/Scripts/python.exe)" project-jdk-type="Python SDK" />
 </project>
 
