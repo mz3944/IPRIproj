@@ -3,4 +3,4 @@ IPRIproj
 
 School project
 
-## More info on project coming monday morning.
+More info on project coming monday morning.
